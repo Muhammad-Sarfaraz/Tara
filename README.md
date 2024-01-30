@@ -7,7 +7,7 @@
 
 🌟 Tara, meaning "star" in Bengali, is a high-performance HTTP server written in Rust. This project combines the speed and reliability of Rust with a focus on simplicity and versatility.
 
-#### Setup
+#### Setup from source code
  - Clone the repository using ``` git clone  ```
  - Define route in ```src/website_handler.rs```
  - Run the server using ``` cargo run ```
